@@ -19,7 +19,7 @@ You can install these by typing them directly into terminal/cmd or through an ID
 To run our prototype translator:  
 1. Install the fiftyWordTunedWhisper model in this repository as well as the GUI (Graphical User Interface) file  
 2. Open the GUI file in Pycharm (or other IDE) and set the model path to YOUR path for the model (where it downloaded)  
-3. Run the GUI file and if all dependencies are there, you should have a 50 word A'mas'kan to English Translator!  
+3. Run the GUI file and if all dependencies are there, you should have a 25 word A'mas'kan to English Translator!  
 
 If you wish to train Whisper on all A'mas'kan words or even your own conlang's lexicon:  
 1. Install the FINALTRAIN file and GUI file from this repository and open them in Pycharm  
