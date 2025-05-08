@@ -1,0 +1,28 @@
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\yoya.wav", "text": "shape", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\schwan.wav", "text": "fear", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\schwa.wav", "text": "eat", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\sa.wav", "text": "break", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\o.wav", "text": "end", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\un.wav", "text": "circle", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\uya.wav", "text": "life", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\yu.wav", "text": "container", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\nuk.wav", "text": "take", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\ot.wav", "text": "say", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\su.wav", "text": "time", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\ti.wav", "text": "cover", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\u.wav", "text": "confident", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\uk.wav", "text": "body", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\nim.wav", "text": "hear", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\us.wav", "text": "rock", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\na.wav", "text": "believe", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\mum.wav", "text": "block", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\mus.wav", "text": "emotion", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\kiya.wav", "text": "water", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\mi.wav", "text": "do", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\it.wav", "text": "can", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\jup.wav", "text": "good", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\at.wav", "text": "self", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\i.wav", "text": "air", "language": "con"}
+{"audio_filepath": "C:\\Users\\Vedant Finavia\\Desktop\\data\\a.wav", "text": "I", "language": "con"}
+
+
