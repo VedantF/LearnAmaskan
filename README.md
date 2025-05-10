@@ -36,5 +36,7 @@ If you wish to train Whisper on all A'mas'kan words or even your own conlang's l
 
 On a side note, if anyone out of genuine curiosity or interest decides to create a tuned Whisper model for all A'mas'kan words, please create a pull request asking that model to be added to MASTER, so anyone can use it
 
+To learn about our English to A'mas'kan translator, click on the EnglishToA'mas'kan.md file!
+
 Thank you and have fun conlanging!
 
